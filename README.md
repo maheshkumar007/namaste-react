@@ -11,3 +11,9 @@ Episode 1 :
 ~ will install latest major version. Always use ^
 npx parcel index.html -> this will start local server
 npx parcel build index.html -> build prod build
+
+Episode3 :
+1. wrote script to run and build project
+       "start":"parcel index.html",  --- npm run start
+    "build":"parcel build index.html", ---- npm run build 
+2.
