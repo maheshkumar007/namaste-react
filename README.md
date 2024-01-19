@@ -16,4 +16,6 @@ Episode3 :
 1. wrote script to run and build project
        "start":"parcel index.html",  --- npm run start
     "build":"parcel build index.html", ---- npm run build 
-2.
+
+Episode4 :
+Building food ordering app
