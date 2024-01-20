@@ -19,3 +19,11 @@ Episode3 :
 
 Episode4 :
 Building food ordering app
+Building components 
+
+Episode5 :
+UseState hook
+dynamically changing ui
+code refactoring
+
+Episode6 :
