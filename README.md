@@ -32,3 +32,8 @@ UseEffect
 APi call
 search
 cors issue 
+
+Episode7 : 
+Routing
+children routes
+Link usage
