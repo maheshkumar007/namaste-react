@@ -27,3 +27,8 @@ dynamically changing ui
 code refactoring
 
 Episode6 :
+Shimmer 
+UseEffect
+APi call
+search
+cors issue 
