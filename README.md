@@ -37,3 +37,8 @@ Episode7 :
 Routing
 children routes
 Link usage
+
+Episode8 :
+class base components
+state in class base component
+react component lifecycle
