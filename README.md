@@ -42,3 +42,9 @@ Episode8 :
 class base components
 state in class base component
 react component lifecycle
+
+Episode9 :
+Custom hook
+fetch data hook
+online/offline hook
+chunking/dynamic bundling/ code splitting/lazy loading
